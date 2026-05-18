@@ -1,0 +1,14 @@
+# Python cache and virtual env
+__pycache__/
+.pytest_cache/
+venv/
+.env
+
+# Local runtime data
+app.db
+*.db
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
